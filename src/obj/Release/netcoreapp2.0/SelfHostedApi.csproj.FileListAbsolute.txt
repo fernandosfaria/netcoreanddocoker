@@ -1,0 +1,10 @@
+E:\Fernando\Projetos\SelfHostedApi\bin\Release\netcoreapp2.0\SelfHostedApi.deps.json
+E:\Fernando\Projetos\SelfHostedApi\bin\Release\netcoreapp2.0\SelfHostedApi.runtimeconfig.json
+E:\Fernando\Projetos\SelfHostedApi\bin\Release\netcoreapp2.0\SelfHostedApi.runtimeconfig.dev.json
+E:\Fernando\Projetos\SelfHostedApi\bin\Release\netcoreapp2.0\SelfHostedApi.dll
+E:\Fernando\Projetos\SelfHostedApi\bin\Release\netcoreapp2.0\SelfHostedApi.pdb
+E:\Fernando\Projetos\SelfHostedApi\obj\Release\netcoreapp2.0\SelfHostedApi.csproj.CoreCompileInputs.cache
+E:\Fernando\Projetos\SelfHostedApi\obj\Release\netcoreapp2.0\SelfHostedApi.AssemblyInfoInputs.cache
+E:\Fernando\Projetos\SelfHostedApi\obj\Release\netcoreapp2.0\SelfHostedApi.AssemblyInfo.cs
+E:\Fernando\Projetos\SelfHostedApi\obj\Release\netcoreapp2.0\SelfHostedApi.dll
+E:\Fernando\Projetos\SelfHostedApi\obj\Release\netcoreapp2.0\SelfHostedApi.pdb
